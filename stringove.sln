@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringove", "stringove\stringove.csproj", "{A08D73D3-4683-45CD-AF57-95AF9293331A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ot desetichna w n ichna", "ot desetichna w n ichna\ot desetichna w n ichna.csproj", "{B9E4A3D7-F14A-4577-ACE8-8409D940928B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08D73D3-4683-45CD-AF57-95AF9293331A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08D73D3-4683-45CD-AF57-95AF9293331A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08D73D3-4683-45CD-AF57-95AF9293331A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08D73D3-4683-45CD-AF57-95AF9293331A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E4A3D7-F14A-4577-ACE8-8409D940928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E4A3D7-F14A-4577-ACE8-8409D940928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E4A3D7-F14A-4577-ACE8-8409D940928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E4A3D7-F14A-4577-ACE8-8409D940928B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
